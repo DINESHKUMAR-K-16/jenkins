@@ -1,10 +1,10 @@
-![HOW TO create](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/05eff408-3cea-4c77-a4d0-f2a322069cda)
+
 
 
 PROJECT 1 : 
 CREATE A CICD PIPLINE AND  DEPLOY A WEBSITE IN APACHE WEBSERVER HOSTED ON AWS USING JENKINS
 
-![image](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/e780b80e-b5e9-4655-9e63-6e5e948537fd)
+
 
 
 STEPS TO BE FOLLOWED .
@@ -96,7 +96,7 @@ command "sudo chmod -R 2771 html/" recursively changes the permissions of the "d
 rm /var/www/html/index.html
 cp -r * /var/www/html/
 
- ![image](https://github.com/Aseemakram19/website-ci-cd-pipline/assets/113539818/365d7197-1277-409c-89d1-26785de4fe25)
+ 
 
 
 Create a webhook for auto CICD
